@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="188c7a6a-eebb-4e7b-b5af-34a7da6df58e" name="Changes" comment="" />
+    <list default="true" id="188c7a6a-eebb-4e7b-b5af-34a7da6df58e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinitions/GoogleHomeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/GoogleHomeSteps.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/camilo.camargo/IdeaProjects/TestNGcucumberBaseProject"
+    "last_opened_file_path": "C:/Users/camilo.camargo/IdeaProjects/APIautomationCourse"
   }
 }]]></component>
   <component name="RunManager">
@@ -52,13 +56,14 @@
       <useClassPathOnly />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="19" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="Runner" />
-      <option name="MAIN_CLASS_NAME" value="Runner.TestRun" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\camilo.camargo\IdeaProjects\TestNGcucumberBaseProject\test-output" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
